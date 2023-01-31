@@ -10,7 +10,7 @@
     ],
     "overrides": [
         {
-            "files": ["src/**/*.test.js"],
+            "files": ["src/**/*.test.ts"],
             "env": { "jest": true, "node": true }
         }
     ]
